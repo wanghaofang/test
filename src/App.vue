@@ -9,7 +9,7 @@
 export default {
   name: 'App'
 }
-alert("ddddd")
+alert("ccccccc")
 </script>
  
 <style>
